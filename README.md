@@ -16,7 +16,7 @@ I am a member of the [TYPO3 Association](https://typo3.org/), an open source CMS
 
 <img src="https://flicstar.com/assets/images/pages/doctopus.png" alt="The Good Docs Doctopus" align="right" width="70px"/>
 
-I'm involved with [The Good Docs Project](https://thegooddocsproject.dev/), creating best practice templates and writing instructions for documenting open source software. It's heaps cool over there - you should totally come and join us.
+I'm involved with [The Good Docs Project](https://thegooddocsproject.dev/), creating best practice templates and writing instructions for documenting open source software. I review templates and write for the [blog](https://thegooddocsproject.dev/blog/). It's heaps cool over there - you should totally come and join us.
 
 ### Get in touch
 
