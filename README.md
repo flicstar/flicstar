@@ -1,6 +1,7 @@
 # G'day
 
-I am a technical communicator—currently working remote, asynchronous and distributed (RAD! 😎). I'm based in Melbourne, Australia.
+I am a technical communicator—currently working remote, asynchronous and distributed (RAD! 😎). I'm based in Melbourne, Australia. 
+
 
 ### Day Job
 <img src="https://flicstar.com/assets/images/pages/osplogo.jpg" alt="OSP logo" align="right" width="70px"/>
@@ -17,6 +18,8 @@ I am a member of the [TYPO3 Association](https://typo3.org/), an open source CMS
 <img src="https://flicstar.com/assets/images/pages/doctopus.png" alt="The Good Docs Doctopus" align="right" width="70px"/>
 
 I'm involved with [The Good Docs Project](https://thegooddocsproject.dev/), creating best practice templates and writing instructions for documenting open source software. I review templates and write for the [blog](https://thegooddocsproject.dev/blog/). It's heaps cool over there - you should totally come and join us.
+
+I write about technical editing over on [Hashnode](https://flicstar.hashnode.dev/).
 
 ### Get in touch
 
