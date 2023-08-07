@@ -19,8 +19,6 @@ I am a member of the [TYPO3 Association](https://typo3.org/), an open source CMS
 
 I'm involved with [The Good Docs Project](https://thegooddocsproject.dev/), creating best practice templates and writing instructions for documenting open source software. It's heaps cool over there - you should totally come and join us.
 
-I write about technical editing over on [Hashnode](https://flicstar.hashnode.dev/).
-
 ### Get in touch
 
 💬 DM me on [Write the Docs Slack](https://www.writethedocs.org/slack/).
