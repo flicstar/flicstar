@@ -24,7 +24,7 @@ In 2019, I helped found [The Good Docs Project](https://gitlab.com/tgdp), creati
 <p align="center"><img src="https://flicstar.com/assets/images/twpbookcover.jpg" alt="TWP Book" width="20%" hspace="20"/> <img src="https://flicstar.com/assets/images/typo3bookcover.jpg" alt="TYPO3 Book" width="15%" hspace="20"/></p>
  
 
-- I helped update <a href="https://boffin.education/category/books/technical-writing-books/" target="_blank">The Technical Writing Process</a> book to the 2nd edition (published 2024). My chapter (<a href="https://boffin.education/review-draft/" target="_blank">chapter 22</a>!) is all about reviewing drafts, editing and giving feedback. My happy place 😍
+- I helped update <a href="https://boffin.education/category/books/technical-writing-books/" target="_blank">The Technical Writing Process</a> book to the 2nd edition, published 2024. My chapter (<a href="https://boffin.education/review-draft/" target="_blank">chapter 22</a>!) is all about reviewing drafts, editing and giving feedback. My happy place 😍
 - I co-authored <a href="https://www.apress.com/gp/book/9781484265246" target="_blank">The TYPO3 Guidebook</a>, published January 2021.  
 
 ### Get in touch
