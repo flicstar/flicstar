@@ -15,6 +15,10 @@ I work as a technical editor and writer at [Open Strategy Partners](https://open
 
 I am a member of the [TYPO3 Association](https://typo3.org/), an open source CMS. I contribute to that project in the [Content Team](https://typo3.org/community/teams/content). This is a great community. If you're looking for a CMS I can highly recommend it! 
 
+<img src="https://flicstar.com/assets/images/pages/wtd.png" alt="The Good Docs Doctopus" align="right" width="70px"/>
+
+I joined the Write the Docs [Newsletter Team](https://www.writethedocs.org/team/#newsletter) in 2026, where I help turn interesting discussions from [WTD Slack](www.writethedocs.org/slack/) into articles for the monthly [newsletter](https://www.writethedocs.org/newsletter/). It's hard and fun! I'm also a member of the [Write the Docs Australia](https://www.linkedin.com/company/write-the-docs-australia/) conference team. 
+
 <img src="https://flicstar.com/assets/images/pages/doctopus.png" alt="The Good Docs Doctopus" align="right" width="70px"/>
 
 In 2019, I helped found [The Good Docs Project](https://gitlab.com/tgdp), creating best practice templates and writing instructions for documenting open source software. It's heaps cool over there - you should totally check it out.
